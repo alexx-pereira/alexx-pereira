@@ -1,9 +1,15 @@
+<img align="top" src="https://raw.githubusercontent.com/gist/alexx-pereira/16b205c343147b4687c1f2938bddeb40/raw/78928d4b7ad989a0ccddc62dc99ac9e8c0b50c6f/alex-github-post.svg"/>
+
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/alexx-pereira/d83958fec1acc8ce3045d27b686e9aa6/raw/4a764c341ecdc4246a26eaf8aa7de1d8bbdc41d2/alex-github-card.svg"/>
+<h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, meu nome é José Alex</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexx-pereira&color=yellow" alt="Profile views" /> </p>
+
 ## Seja bem-vindo(a) ao meu perfil 😊 ##
 
  <div>
    <a href="https://github.com/jose-alexx">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose-alexx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-alexx&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose-alexx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=alexx-pereira&show_icons=true&theme=radical&layout=compact" />
 </div>
     
 <div style="display: inline_block"><br>
