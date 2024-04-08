@@ -1,11 +1,12 @@
 <img align="top" src="https://raw.githubusercontent.com/gist/alexx-pereira/c7db02e7701d63a04a78e2287b4cddc2/raw/d3fe19710c7b2a2ff333516eaf309f77190e9ea1/alex-github-post2.svg"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+José+Alex!;+Tenho+17+anos!;Eu+moro+em+Viçosa,+AL;E+estou+no+ultimo+ano+do+encino+médio+em+infomática;+Seja+bem-vindo(a)+ao+meu+perfil+:%29;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+Welcome+to+my+profile+:%29;My+name+is+José+Alex;I'm+17+years+old;I+am+Brazilian;I'm+a+computer+science+student+:%29)](https://git.io/typing-svg)
 
-<p aling="center"><p align="center">Hey! I'm José Alex, currently in the third year of high school integrated in IT. I'm fascinated by technology and innovation, always ready to explore new things and learn new things! 😄💻 I adopt maker culture (do it yourself) as my basis in everything I do. I learned this concept in practice while monitoring the technological innovation laboratory of the 'Space 4.0 Project', which opened my eyes to infinite possibilities. 🚀✨ I consider myself a combo of possibilities! In addition to loving programming and developing, I also enjoy flying drones, using 3D printers, laser cutters, venturing into robotics, electronics, IoT and having fun with 2D and 3D drawing and modeling. But, my main focus is on programming! 🛠️💡I'm always looking for challenges and new adventures in the world of technology! Let's create incredible things together?🚀</p></p>
+<p aling="center"><p align="center" >Hey! I'm José Alex, currently in the third year of high school integrated in IT. I'm fascinated by technology and innovation, always ready to explore new things and learn new things! 😄💻 I adopt maker culture (do it yourself) as my basis in everything I do. I learned this concept in practice while monitoring the technological innovation laboratory of the 'Space 4.0 Project', which opened my eyes to infinite possibilities. 🚀✨ I consider myself a combo of possibilities! In addition to loving programming and developing, I also enjoy flying drones, using 3D printers, laser cutters, venturing into robotics, electronics, IoT and having fun with 2D and 3D drawing and modeling. But, my main focus is on programming! 🛠️💡I'm always looking for challenges and new adventures in the world of technology! Let's create incredible things together?🚀</p></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexx-pereira&color=CCB13F" alt="Profile views" /> </p>
+
 
 ## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> &nbsp;Technologys stack
 
@@ -26,8 +27,8 @@
 ## Meus Status do GitHub
 
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alexx-pereira&show_icons=true&count_private=true&hide_border=true&title_color=0F2546&icon_color=0F2546&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexx-pereira&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alexx-pereira&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexx-pereira&layout=compact&hide_border=true&title_color=36BCF7&text_color=36BCF7&bg_color=0d1117" />
 </div>
 
 
