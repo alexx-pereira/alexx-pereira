@@ -1,7 +1,7 @@
 <img align="top" src="https://raw.githubusercontent.com/gist/alexx-pereira/c7db02e7701d63a04a78e2287b4cddc2/raw/d3fe19710c7b2a2ff333516eaf309f77190e9ea1/alex-github-post2.svg"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=white&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+José+Alex!;+Tenho+17+anos!;Eu+moro+em+Viçosa,+AL;E+estou+no+ultimo+ano+do+encino+médio+em+infomática;+Seja+bem-vindo(a)+ao+meu+perfil+:%29;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+José+Alex!;+Tenho+17+anos!;Eu+moro+em+Viçosa,+AL;E+estou+no+ultimo+ano+do+encino+médio+em+infomática;+Seja+bem-vindo(a)+ao+meu+perfil+:%29;)](https://git.io/typing-svg)
 
 <p aling="center"><p align="center">Oi! Sou José Alex, atualmente no terceiro ano do Ensino Médio integrado em Informática. Sou fascinado por tecnologia e inovação, sempre pronto para explorar novidades e aprender coisas novas! 😄💻 Adoto a cultura maker (faça você mesmo) como minha base em tudo o que faço. Aprendi na prática esse conceito enquanto monitorava o laboratório de inovações tecnológicas do 'Projeto Espaço 4.0', que abriu meus olhos para infinitas possibilidades. 🚀✨ Me considero um combo de possibilidades! Além de adorar programar e desenvolver, também curto pilotar drones, usar impressoras 3D, cortadoras a laser, me aventurar na robótica, eletrônica, IoT e me divertir com desenho e modelagem 2D e 3D. Mas, meu foco principal é na programação! 🛠️💡 Estou sempre em busca de desafios e novas aventuras no mundo da tecnologia! Vamos criar coisas incríveis juntos? 🚀</p></p>
 
@@ -26,7 +26,7 @@
 ## Meus Status do GitHub
 
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alexx-pereira&show_icons=true&count_private=true&hide_border=true&title_color=FA418C&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alexx-pereira&show_icons=true&count_private=true&hide_border=true&title_color=0F2546&icon_color=0F2546&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexx-pereira&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
