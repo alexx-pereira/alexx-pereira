@@ -3,9 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=50&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+Welcome+to+my+profile+:%29;My+name+is+José+Alex;I'm+17+years+old;I+am+Brazilian;I'm+a+computer+science+student+:%29)](https://git.io/typing-svg)
 
-<p aling="center"><p align="center" >Hey! I'm José Alex, currently in the third year of high school integrated in IT. I'm fascinated by technology and innovation, always ready to explore new things and learn new things! 😄💻 I adopt maker culture (do it yourself) as my basis in everything I do. I learned this concept in practice while monitoring the technological innovation laboratory of the 'Space 4.0 Project', which opened my eyes to infinite possibilities. 🚀✨ I consider myself a combo of possibilities! In addition to loving programming and developing, I also enjoy flying drones, using 3D printers, laser cutters, venturing into robotics, electronics, IoT and having fun with 2D and 3D drawing and modeling. But, my main focus is on programming! 🛠️💡I'm always looking for challenges and new adventures in the world of technology! Let's create incredible things together?🚀</p></p>
+<p aling="jsutify"><p align="jsutify" >Hey! I'm José Alex, currently in the third year of high school integrated in IT. I'm fascinated by technology and innovation, always ready to explore new things and learn new things! 😄💻 I adopt maker culture (do it yourself) as my basis in everything I do. I learned this concept in practice while monitoring the technological innovation laboratory of the 'Space 4.0 Project', which opened my eyes to infinite possibilities. 🚀✨ I consider myself a combo of possibilities! In addition to loving programming and developing, I also enjoy flying drones, using 3D printers, laser cutters, venturing into robotics, electronics, IoT and having fun with 2D and 3D drawing and modeling. But, my main focus is on programming! 🛠️💡I'm always looking for challenges and new adventures in the world of technology! Let's create incredible things together?🚀</p></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexx-pereira&color=CCB13F" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexx-pereira&color=F58219" alt="Profile views" /> </p>
 
 
 ## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> &nbsp;Technologys stack
@@ -45,22 +45,17 @@
 
 <div  align="left"> 
   <div style="display: inline_block"><br>
-   <img height="180em" src=""/>
-
 
    <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/alexx-pereira/fe606d23c1879116a6a5798f99840fe6/raw/8fe1c138604b9dddbffb865bdd142ddda7c301d2/alex-github-card.svg"/>
     <h2 align="left">Main skills: </h2>
-   
-   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-   ![Figma](https://img.shields.io/badge/-figma-366994?style=for-the-badge&logo=figma&labelColor=366994)
-   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/-figma-366994?style=for-the-badge&logo=figma&labelColor=366994" target="_blank"></a>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
    <h2 align="left"> Tools:: </h2>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-404137?style=for-the-badge&logo=visual-studio-code&logoColor=404137&labelColor=000000" target="_blank"></a>
 
-
-   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-404137?style=for-the-badge&logo=visual-studio-code&logoColor=404137&labelColor=000000)
-   
    <img align="center" height="30" width="40" alt="Vs.Code" src="https://raw.githubusercontent.com/devicons/devicon/45200e3f2efe9e30a370be0504e97a8acf64bdd4/icons/vscode/vscode-original-wordmark.svg">
    <img align="center" height="30" width="40" alt="Replit" src="https://raw.githubusercontent.com/devicons/devicon/45200e3f2efe9e30a370be0504e97a8acf64bdd4/icons/replit/replit-original-wordmark.svg">
    <img align="center" height="30" width="40" alt="Eclipse" src="https://raw.githubusercontent.com/devicons/devicon/45200e3f2efe9e30a370be0504e97a8acf64bdd4/icons/eclipse/eclipse-original-wordmark.svg">
