@@ -27,9 +27,10 @@
 ## Meus Status do GitHub
 
 <div align="center">
-   <a href="https://github.com/alexx-pereira">
-   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=alexx-pereira&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=000000&point=0a855c&area=true&hide_border=true&border_color=36BCF7" alt="José ALex github stats"/>
-   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-alexx&layout=compact&hide_border=true&title_color=36BCF7&text_color=36BCF7&bg_color=000000&point=0a855c&area=true&hide_border=true&border_color=36BCF7"/>
+  <a href="https://github.com/duribeiro">
+    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=alexx-pereira&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexx-pereira&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 
 <div align="center">
