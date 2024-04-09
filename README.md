@@ -28,8 +28,8 @@
 
 <div align="center">
   <a href="https://github.com/duribeiro">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=alexx-pereira&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexx-pereira&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alexx-pereira&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexx-pereira&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
