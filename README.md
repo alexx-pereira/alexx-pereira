@@ -23,55 +23,58 @@
   </table>
 </div>
 
-
-
-
-
-
-<b>Além da programação...</b>
+<img align="center" src="https://raw.githubusercontent.com/gist/alexx-pereira/55a05646910e390ccb1e3cfb08bd13d3/raw/1c7c236c1c6645f1a3460ba9857d42727b70245e/decoration-github2.svg">
 
 - Gosto de jogos multiplayer 5v5 como Honor of Kings.
 - Gosto de lugares calmos e com pouca movimentação.
 - Gosto de ter as minhas coisas bem limpas e organizadas, pelomenos quando eu não estou trabalhando 🤣.
-- Gosto de animes/mangas e mecher em coisas como:
-   - Industria 4.0 (IOT, Robótica, Modelagem e inpreção 3d, Corte a laser, Drones, Eletrônica);
- 
-
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo4_250.gif"></td>
-      <td><img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo5_250.gifv"></td>
-      <td><img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo6_250.gifv"></td>
-    </tr>
-  </table>
-</div>
-
-
+- Gosto de músicas com ideologia forte.
+- Gosto de animes/mangas e mexer em coisas como:
+   - Indústria 4.0 (IOT, Robótica, Modelagem e impressão 3d, Corte a laser, Drones, Eletrônica);
+   - Dar aula.
 
 ## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> &nbsp;Technologys stack
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Node.JS](https://img.shields.io/badge/-Node.JS-0F2546?style=for-the-badge&logo=node.js&labelColor=0F2546&textColor=0F2546)
-![React.JS](https://img.shields.io/badge/-React.js-60A709?style=for-the-badge&logo=react&labelColor=60A709)
-![Visual-Studio-Code](https://img.shields.io/badge/-Visual%20Studio%20Code-6420FF?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=6420FF)
-![GitHub](https://img.shields.io/badge/-GitHub-62C7C9?style=for-the-badge&logo=github&labelColor=62C7C9)
-![Boostrap](https://img.shields.io/badge/-boostrap-DA5F66?style=for-the-badge&logo=bootstrap&labelColor=DA5F66)
-![MySQL](https://img.shields.io/badge/-mysql-FD7633?style=for-the-badge&logo=mysql&labelColor=FD7633)
-![Figma](https://img.shields.io/badge/-figma-366994?style=for-the-badge&logo=figma&labelColor=366994)
+<div align="center">
+  <!-- Python --> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <!-- HTML --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <!-- CSS --> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <!-- Node.js --> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <!-- Java --> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <!-- Bootstrap --> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <!-- Canva --> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+  <!-- Figma --> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <!-- Arduino IDE --> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <!-- Eclipse --> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+  <!-- Google Chits --> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
+  <!-- Git --> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <!-- Git Hub--> <img src="https://img.shields.io/badge/-GitHub-62C7C9?style=for-the-badge&logo=github&labelColor=62C7C9">
+  <!-- Visual Studio Code--> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-6420FF?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=6420FF">
+  <br>
+</div>
 
-## Meus Status do GitHub
+## My GitHub Statuses
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexx-pereira&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexx-pereira&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreinaoliveira&theme=tokyonight) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexx-pereira&theme=algolia) | ![](https://github-readme-streak-stats.herokuapp.com/?user=andreinaoliveira&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| :-: | :-: |
+
+
+
+
+
+
+
+
 
 <div align="center">
   <a href="https://github.com/duribeiro">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alexx-pereira&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexx-pereira&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="205em" src="https://github-readme-stats.vercel.app/api?username=alexx-pereira&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+    <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexx-pereira&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
