@@ -33,7 +33,7 @@
    - Indústria 4.0 (IOT, Robótica, Modelagem e impressão 3d, Corte a laser, Drones, Eletrônica);
    - Dar aula.
 
-## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> &nbsp;Technologys stack
+## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> &nbsp; Technologys stack
 
 <div align="center">
   <!-- Python --> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -55,7 +55,7 @@
   <br>
 </div>
 
-## My GitHub Statuses
+## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> &nbsp; My GitHub Statuses
 
 | ![](https://github-readme-stats.vercel.app/api?username=alexx-pereira&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=00bfbf&text_color=ffffff&bg_color=050F2C) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexx-pereira&theme=algolia) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexx-pereira&layout=compact&hide_border=true&title_color=2A71D3&text_color=ffffff&bg_color=050F2C) |
 | :-: | :-: | :-: |
