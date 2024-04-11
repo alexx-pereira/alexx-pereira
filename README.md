@@ -1,11 +1,53 @@
-<img align="top" src="https://raw.githubusercontent.com/gist/alexx-pereira/c7db02e7701d63a04a78e2287b4cddc2/raw/d3fe19710c7b2a2ff333516eaf309f77190e9ea1/alex-github-post2.svg"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=alexx-pereira&color=2654FF&abbreviated=true&style=flat-square"><br>
+<div align="center">
+  <a href="https://github.com/alexx-pereira">
+    <img align="center" src="https://raw.githubusercontent.com/gist/alexx-pereira/d3a956e8ad653734888818b163e97e68/raw/1e541c3ad996acb4ef1c1855151e47988fac6391/decoretion-github.svg" ">
+  </a>
+</div>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=50&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&lines=HELLO%2C+My+name+is+José+Alex+:%29;I'm+17+years+old;I+am+Brazilian;I'm+a+computer+science+student+:%29)](https://git.io/typing-svg)
+
+<p align="center">Olá, tudo bem? 😄💻 Estou entrando na área agora e estou em busca de novos conhecimentos sobre programação para me especializar ainda mais. ✨ E um dia me tornar full stack e além! 🛠️💡Aproveite e veja as minhas qualificações, meu repositório pessoal e os meus gostos. 👇 </p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><b>💻 Estudar programação a tarde inteira</b></td>
+      <td><b>😄 Me divertir no tempo livre</b></td>
+    </tr>
+    <tr>
+      <td><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--yH1__SZq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_775/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ytshyt5ieabbodlgx2gr.png" width="450px" height="180px"></td>
+      <td><img src="https://giffiles.alphacoders.com/219/219969.gif" width="450px" height="180px"> </td>
+    </tr>
+  </table>
+</div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=50&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+Welcome+to+my+profile+:%29;My+name+is+José+Alex;I'm+17+years+old;I+am+Brazilian;I'm+a+computer+science+student+:%29)](https://git.io/typing-svg)
 
-<p aling="jsutify"><p align="jsutify" >Hey! I'm José Alex, currently in the third year of high school integrated in IT. I'm fascinated by technology and innovation, always ready to explore new things and learn new things! 😄💻 I adopt maker culture (do it yourself) as my basis in everything I do. I learned this concept in practice while monitoring the technological innovation laboratory of the 'Space 4.0 Project', which opened my eyes to infinite possibilities. 🚀✨ I consider myself a combo of possibilities! In addition to loving programming and developing, I also enjoy flying drones, using 3D printers, laser cutters, venturing into robotics, electronics, IoT and having fun with 2D and 3D drawing and modeling. But, my main focus is on programming! 🛠️💡I'm always looking for challenges and new adventures in the world of technology! Let's create incredible things together?🚀</p></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexx-pereira&color=F58219" alt="Profile views" /> </p>
+
+
+<b>Além da programação...</b>
+
+- Gosto de jogos multiplayer 5v5 como Honor of Kings.
+- Gosto de lugares calmos e com pouca movimentação.
+- Gosto de ter as minhas coisas bem limpas e organizadas, pelomenos quando eu não estou trabalhando 🤣.
+- Gosto de animes/mangas e mecher em coisas como:
+   - Industria 4.0 (IOT, Robótica, Modelagem e inpreção 3d, Corte a laser, Drones, Eletrônica);
+ 
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo4_250.gif"></td>
+      <td><img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo5_250.gifv"></td>
+      <td><img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo6_250.gifv"></td>
+    </tr>
+  </table>
+</div>
+
 
 
 ## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> &nbsp;Technologys stack
