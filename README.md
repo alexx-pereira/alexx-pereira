@@ -57,35 +57,14 @@
 
 ## My GitHub Statuses
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexx-pereira&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexx-pereira&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreinaoliveira&theme=tokyonight) |
+| ![](https://github-readme-stats.vercel.app/api?username=alexx-pereira&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=00bfbf&text_color=ffffff&bg_color=050F2C) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexx-pereira&theme=algolia) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexx-pereira&layout=compact&hide_border=true&title_color=2A71D3&text_color=ffffff&bg_color=050F2C) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexx-pereira&theme=algolia) | ![](https://github-readme-streak-stats.herokuapp.com/?user=andreinaoliveira&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexx-pereira&theme=algolia) | ![](https://github-readme-streak-stats.herokuapp.com/?user=alexx-pereira&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=050F2C&stroke=00AEFF&ring=E34C26&fire=F1E05A&currStreakNum=288483&sideNums=ffffff&currStreakLabel=00AEFF&sideLabels=00AEFF&dates=23AB7D) |
 | :-: | :-: |
 
-
-
-
-
-
-
-
-
-<div align="center">
-  <a href="https://github.com/duribeiro">
-    <img height="205em" src="https://github-readme-stats.vercel.app/api?username=alexx-pereira&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexx-pereira&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
-<div align="center">
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexx-pereira&theme=windows-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=1000)](https://git.io/streak-stats)
-
-</div>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alexx-pereira&bg_color=0d1117&color=36BCF7&line=1D5570&point=38B6FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| ![](https://github-readme-activity-graph.vercel.app/graph?username=alexx-pereira&bg_color=050F2C&color=ffffff&line=00AEFF&point=ffffff&area=true&hide_border=true) |
+| :-: |
 
 
 
