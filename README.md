@@ -5,7 +5,7 @@
   <br>
   <br
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=35&duration=4000&pause=1000&color=ffffff&center=true&vLeft=true&random=false&width=1000&lines=HELLO%2C+My+name+is+José+Alex+:%29;I'm+17+years+old;I+am+Brazilian;I'm+a+computer+science+student+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=35&duration=4000&pause=1000&color=FFBD59&center=true&vLeft=true&random=false&width=1000&lines=HELLO%2C+My+name+is+José+Alex+:%29;I'm+17+years+old;I+am+Brazilian;I'm+a+computer+science+student+:%29)](https://git.io/typing-svg) 
 
 <p align="justify"> Hello, how are you? 😄💻 I'm entering the field now and I'm looking for new knowledge about programming to specialize even more. ✨ And one day I become full stack and beyond! 🛠️💡Take advantage and see my qualifications, my personal repository and my likes. </p> <br>
 
@@ -81,7 +81,12 @@
   <img src="https://img.shields.io/badge/-GitHub-62C7C9?style=for-the-badge&logo=github&labelColor=62C7C9"> <!-- Git Hub--> 
 </div>
 
+<details aling="left">
+<summary><h3>Detailed Status: </h3></summary>
 
+</details>
+
+ 
 <details align="left">
   <summary></summary> 
  
