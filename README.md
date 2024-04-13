@@ -1,20 +1,12 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=alexx-pereira&color=2654FF&abbreviated=true&style=flat-square"><br>
-<div align="center">
-  <a href="https://github.com/alexx-pereira">
-    <img align="center" src="https://raw.githubusercontent.com/gist/alexx-pereira/d3a956e8ad653734888818b163e97e68/raw/1e541c3ad996acb4ef1c1855151e47988fac6391/decoretion-github.svg" ">
-  </a>
-</div>
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=40&duration=4000&pause=1000&color=ffffff&left=true&vLeft=true&random=false&width=1000&lines=HELLO%2C+My+name+is+José+Alex+:%29;I'm+17+years+old;I+am+Brazilian;I'm+a+computer+science+student+:%29)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=50&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&lines=HELLO%2C+My+name+is+José+Alex+:%29;I'm+17+years+old;I+am+Brazilian;I'm+a+computer+science+student+:%29)](https://git.io/typing-svg)
-
-<p align="center">Olá, tudo bem? 😄💻 Estou entrando na área agora e estou em busca de novos conhecimentos sobre programação para me especializar ainda mais. ✨ E um dia me tornar full stack e além! 🛠️💡Aproveite e veja as minhas qualificações, meu repositório pessoal e os meus gostos. 👇 </p>
+<p align="justify"> Hello, how are you? 😄💻 I'm entering the field now and I'm looking for new knowledge about programming to specialize even more. ✨ And one day I become full stack and beyond! 🛠️💡Take advantage and see my qualifications, my personal repository and my likes. </p> <br>
 
 <div align="center">
   <table>
     <tr>
-      <td><b>💻 Estudar programação a tarde inteira</b></td>
-      <td><b>😄 Me divertir no tempo livre</b></td>
+      <td><b>💻 Study programming all afternoon </b></td>
+      <td><b>😄 Have fun in my free time</b></td>
     </tr>
     <tr>
       <td><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--yH1__SZq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_775/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ytshyt5ieabbodlgx2gr.png" width="450px" height="180px"></td>
@@ -23,56 +15,45 @@
   </table>
 </div>
 
-<img align="center" src="https://raw.githubusercontent.com/gist/alexx-pereira/55a05646910e390ccb1e3cfb08bd13d3/raw/1c7c236c1c6645f1a3460ba9857d42727b70245e/decoration-github2.svg">
-
-- Gosto de jogos multiplayer 5v5 como Honor of Kings.
-- Gosto de lugares calmos e com pouca movimentação.
-- Gosto de ter as minhas coisas bem limpas e organizadas, pelomenos quando eu não estou trabalhando 🤣.
-- Gosto de músicas com ideologia forte.
-- Gosto de animes/mangas e mexer em coisas como:
-   - Indústria 4.0 (IOT, Robótica, Modelagem e impressão 3d, Corte a laser, Drones, Eletrônica);
-   - Dar aula.
-
-## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> &nbsp; Technologys stack
+<h3 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> &nbsp; My GitHub Statuses</h3>
 
 <div align="center">
-  <!-- Python --> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <!-- HTML --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <!-- CSS --> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <!-- Node.js --> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <!-- Java --> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <!-- Bootstrap --> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <!-- Canva --> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-  <!-- Figma --> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <!-- Arduino IDE --> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-  <!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  <!-- Eclipse --> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-  <!-- Google Chits --> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
-  <!-- Git --> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <!-- Git Hub--> <img src="https://img.shields.io/badge/-GitHub-62C7C9?style=for-the-badge&logo=github&labelColor=62C7C9">
-  <!-- Visual Studio Code--> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-6420FF?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=6420FF">
-  <br>
+  <table>
+    <tr>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexx-pereira&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&hide_border=true&title_color=FFBD59&icon_color=FFBD59&text_color=ffffff&bg_color=000000" alt="José Alex github stats" /></td>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexx-pereira&layout=compact&hide_title=false&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&hide_border=true&title_color=FFBD59&text_color=ffffff&bg_color=000000"/></td>
+    </tr>
+  </table>
 </div>
 
-## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> &nbsp; My GitHub Statuses
+<h3 align="left">To contact me or talk about programming, call me below!</h3>
+ 
+<div> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=FFBD59" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFBD59" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=FFBD59" target="_blank"></a> 
+  <a href="mailto:jasp1@aluno.ifal.edu.br"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FFBD59" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFBD59" target="_blank"></a>
+</div>
 
-| ![](https://github-readme-stats.vercel.app/api?username=alexx-pereira&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=00bfbf&text_color=ffffff&bg_color=050F2C) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexx-pereira&theme=algolia) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexx-pereira&layout=compact&hide_border=true&title_color=2A71D3&text_color=ffffff&bg_color=050F2C) |
-| :-: | :-: | :-: |
+   <!-- 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexx-pereira&theme=algolia) | ![](https://github-readme-streak-stats.herokuapp.com/?user=alexx-pereira&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=050F2C&stroke=00AEFF&ring=E34C26&fire=F1E05A&currStreakNum=288483&sideNums=ffffff&currStreakLabel=00AEFF&sideLabels=00AEFF&dates=23AB7D) |
-| :-: | :-: |
-
-| ![](https://github-readme-activity-graph.vercel.app/graph?username=alexx-pereira&bg_color=050F2C&color=ffffff&line=00AEFF&point=ffffff&area=true&hide_border=true) |
-| :-: |
+    <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/alexx-pereira/fe606d23c1879116a6a5798f99840fe6/raw/8fe1c138604b9dddbffb865bdd142ddda7c301d2/alex-github-card.svg"/>
+    
+    -->
 
 
+
+
+
+    
 
 <div  align="left"> 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
 
-   <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/alexx-pereira/fe606d23c1879116a6a5798f99840fe6/raw/8fe1c138604b9dddbffb865bdd142ddda7c301d2/alex-github-card.svg"/>
-    <h2 align="left">Main skills: </h2>
+  <h2 align="left">Main skills: </h2>
+
+ 
 
    <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
    <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
@@ -111,6 +92,23 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 </div>
+
+
+<details align="left">
+  <summary></summary> 
+ 
+  <img align="center" src="https://raw.githubusercontent.com/gist/alexx-pereira/55a05646910e390ccb1e3cfb08bd13d3/raw/1c7c236c1c6645f1a3460ba9857d42727b70245e/decoration-github2.svg"> <br>
+
+- Gosto de jogos multiplayer 5v5 como Honor of Kings.
+- Gosto de lugares calmos e com pouca movimentação.
+- Gosto de ter as minhas coisas bem limpas e organizadas, pelomenos quando eu não estou trabalhando 🤣.
+- Gosto de músicas com ideologia forte.
+- Gosto de animes/mangas e mexer em coisas como:
+   - Indústria 4.0 (IOT, Robótica, Modelagem e impressão 3d, Corte a laser, Drones, Eletrônica);
+   - Dar aula.
+
+</details>
+
  
 <br>
  
@@ -122,4 +120,35 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:jasp1@aluno.ifal.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+
+<img align="right" src="https://komarev.com/ghpvc/?username=alexx-pereira&color=2654FF&abbreviated=true&style=flat-square"><br>
+<div align="center">
+  <a href="https://github.com/alexx-pereira">
+    <img align="center" src="https://raw.githubusercontent.com/gist/alexx-pereira/d3a956e8ad653734888818b163e97e68/raw/1e541c3ad996acb4ef1c1855151e47988fac6391/decoretion-github.svg" ">
+  </a>
+</div>
+<br>
+
+## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> &nbsp; Technologys stack
+
+<div align="center">
+  <!-- Python --> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <!-- HTML --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <!-- CSS --> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <!-- Node.js --> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <!-- Java --> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <!-- Bootstrap --> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <!-- Canva --> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+  <!-- Figma --> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <!-- Arduino IDE --> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <!-- Eclipse --> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+  <!-- Google Chits --> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
+  <!-- Git --> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <!-- Git Hub--> <img src="https://img.shields.io/badge/-GitHub-62C7C9?style=for-the-badge&logo=github&labelColor=62C7C9">
+  <!-- Visual Studio Code--> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-6420FF?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=6420FF">
+  <br>
 </div>
