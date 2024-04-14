@@ -54,8 +54,9 @@
 
 <div  align="left"> 
   <img src="https://raw.githubusercontent.com/gist/alexx-pereira/ca62ee9a1d7bb74e021280459e246778/raw/a4da54ca9351036d10de3020d2ef75570a71ce5a/ddde.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-  <img src="https://komarev.com/ghpvc/?username=alexx-pereira&labelColor=FFBD59&color=FFBD59&abbreviated=true&style=flat-square" min-width="100px" max-width="200px" width="150px" alt="Computador iuriCode" color="FFBD59">
-
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Falexx-pereira&s=50&c=FFBD59&bg=000&no=7&ff=digi&tb=Visits%3A++&ta="  min-width="100px" max-width="200px" width="150px" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=alexx-pereira&labelColor=FFBD59&color=FFBD59&abbreviated=true&style=flat-square" min-width="100px" max-width="200px" width="150px" alt="Computador iuriCode" color="FFBD59"> -->
+ 
 
   <h3 align="left">Main technologies: </h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!-- HTML --> 
@@ -79,28 +80,27 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <!-- Python --> 
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <!-- Git --> 
   <img src="https://img.shields.io/badge/-GitHub-62C7C9?style=for-the-badge&logo=github&labelColor=62C7C9"> <!-- Git Hub--> 
-</div>
+</div> <br>
 
 <details aling="left">
-<summary><h3>Detailed Status: </h3></summary>
+<summary>Detailed Status: </summary> <br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alexx-pereira&bg_color=000&color=FFBD59&line=ffffff&point=FFBD59&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- | ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alexx-pereira&bg_color=000&color=FFBD59&line=ffffff&point=FFBD59&area=true&hide_border=true) | 
+| :-: | -->
 </details>
 
- 
 <details align="left">
-  <summary></summary> 
- 
-  <img align="center" src="https://raw.githubusercontent.com/gist/alexx-pereira/55a05646910e390ccb1e3cfb08bd13d3/raw/1c7c236c1c6645f1a3460ba9857d42727b70245e/decoration-github2.svg"> <br>
-
-- Gosto de jogos multiplayer 5v5 como Honor of Kings.
-- Gosto de lugares calmos e com pouca movimentação.
-- Gosto de ter as minhas coisas bem limpas e organizadas, pelomenos quando eu não estou trabalhando 🤣.
-- Gosto de músicas com ideologia forte.
-- Gosto de animes/mangas e mexer em coisas como:
-   - Indústria 4.0 (IOT, Robótica, Modelagem e impressão 3d, Corte a laser, Drones, Eletrônica);
-   - Dar aula.
-
+  <summary color="#FFBD59">In addition to programming:...</summary> <br>
 </details>
 
+<details align="left">
+  <summary></summary> <br>
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
+</details>
 
  
